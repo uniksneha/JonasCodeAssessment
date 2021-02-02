@@ -16,13 +16,13 @@
 
 4) Create employee controller to get the following properties for client side:
 
-string EmployeeCode,
-string EmployeeName,
-string CompanyName,
-string OccupationName,
-string EmployeeStatus,
-string EmailAddress,
-string PhoneNumber,
-string LastModifiedDateTime
+* string EmployeeCode,
+* string EmployeeName,
+* string CompanyName,
+* string OccupationName,
+* string EmployeeStatus,
+* string EmailAddress,
+* string PhoneNumber,
+* string LastModifiedDateTime
 
 5) Add logger to solution and add proper error handling
